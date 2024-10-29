@@ -1,0 +1,4 @@
+Index;Operator;Condition;Compare;Condition value;Delivery day;Cost;Cost unit;Cost multiplied by;Cost for every unit;Cost for every condition;Cost for every extra secondary;Description
+1;or;subtotal;less_than;60;5;85;x;height;10;dimensions;s_area;This Description
+1;and;subtotal;less_than;65;4;78;%;weight;2;dimensions;s_area;This Description 54
+2;OR;subtotal;less_than;5;7;8;every;height;4;dimensions;s_area;This Description 65
